@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DiBuUfZmH7+QagCINDqhBd6xvXMa115KZikYsDEgOtyonL0JU7aZhdfcOm25h1XkDvZtg7UV4G/wEWBZgQ1IFQ==",
+  "dgSpecHash": "AxO6WGL7bnFfKyH1SHQYutH6c7I69UmYxDisoaW7c/mmy5FO8FKkIeMUZJPBcyyayF4ZvZpz1GyquxbdCcRdAg==",
   "success": true,
   "projectFilePath": "D:\\Projetos Pessoais\\Refatorando para testes de unidade\\Store\\Store.Domain\\Store.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\joaoc\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
