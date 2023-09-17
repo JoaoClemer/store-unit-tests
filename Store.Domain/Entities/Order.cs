@@ -5,7 +5,7 @@ namespace Store.Domain.Entities
 {
     public class Order : Entity
     {
-        public Order(Customer customer, DateTime date, string number, IList<OrderItem> items, decimal deliveryFee, Discount discount, EOrderStatus status)
+        public Order(Customer customer, decimal deliveryFee, Discount discount)
         {
             AddNotifications(
                 new Contract()
